@@ -1,0 +1,7 @@
+{
+  "name": "sigo probando pero con otro lenguaje",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
